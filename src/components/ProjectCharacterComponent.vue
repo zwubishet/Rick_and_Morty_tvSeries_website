@@ -111,8 +111,7 @@ function btn_click_effect() {
         <div class="flex justify-between">
           <a class="mr-2 hover:underline"
             href="https://www.figma.com/design/IXrQh1rjenrWx3M3Sre6KW/rick-and-morty?m=auto&t=XswwF8sUQRnIF2vG-6">Figma</a>
-          <a class="ml-2 hover:underline"
-            href="https://github.com/zwubishet/minab-rickandmortyseries-website.git">Github</a>
+          <a class="ml-2 hover:underline" href="https://github.com/zwubishet/Rick_and_Morty_tvSeries_website">Github</a>
         </div>
       </div>
     </div>
